@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Web App Pentesting
 - 🤔 &nbsp; Exploring new technologies and developing open source project.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science & computer programming.
 - 💼 &nbsp; Python and Bash Script Lover.
 - 🌱 &nbsp; Enthusiast in cyber Security & Information Technology.
 - ✍️ &nbsp; There Is No Place Like 127.0.0.1 
