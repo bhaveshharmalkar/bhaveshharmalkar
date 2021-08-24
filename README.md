@@ -17,7 +17,7 @@
 - 🛢 &nbsp; MySQL | Mongo DB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Linux
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bhaveshharmakar/github-readme-stats)
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
