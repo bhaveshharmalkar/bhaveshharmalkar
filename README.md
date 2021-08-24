@@ -1,0 +1,33 @@
+<h2> Hey there! I'm saikat. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Web App Pentesting
+- 🤔 &nbsp; Exploring new technologies and developing open source project.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Python and Bash Script Lover.
+- 🌱 &nbsp; Enthusiast in cyber Security & Information Technology.
+- ✍️ &nbsp; There Is No Place Like 127.0.0.1 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++ | Bash | C#  
+- 🌐 &nbsp; Node Js | HTML | CSS | JavaScript | PHP 
+- 🛢 &nbsp; MySQL | Mongo DB | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Linux
+
+
+<br/>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/bhavesh_2001" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/bhaveshharmalkar__28/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:bhaveshharmalkar28@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [bhaveshharmalkar](https://github.com/bhaveshharmalkar)
+
+
