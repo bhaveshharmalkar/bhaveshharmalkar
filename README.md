@@ -28,6 +28,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=dark&hide_border=true" /> 
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhaveshharmalkar) 
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
