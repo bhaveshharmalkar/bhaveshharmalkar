@@ -5,15 +5,14 @@
 
 - 🔭 &nbsp; I’m currently learning Web App Pentesting
 - 🤔 &nbsp; Exploring new technologies and developing open source project.
-- 🎓 &nbsp; Studying Computer Science & computer programming.
 - 💼 &nbsp; Python and Bash Script Lover.
 - 🌱 &nbsp; Enthusiast in cyber Security & Information Technology.
 - ✍️ &nbsp; There Is No Place Like 127.0.0.1 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | Bash | C#  
-- 🌐 &nbsp; Node Js | HTML | CSS | JavaScript | PHP 
+- 💻 &nbsp; Python | Bash  
+- 🌐 &nbsp; Node Js | HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Mongo DB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git | Linux
 <!-- 
