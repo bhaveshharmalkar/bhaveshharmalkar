@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Bhavesh.
+<h2> Hey there! < img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave">I'm Bhavesh.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
