@@ -2,8 +2,7 @@
 <hr/>
 <br>  
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bhavesharmalkar?label=Follow%20on%20Twitter&style=social&logo=LinkedIn)
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fbhavesharmalkar)](https://twitter.com/bhavesharmalkar)
+
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="400px" width="990px"/>
 
 
@@ -31,3 +30,12 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
   
 ![Bhavesh GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
+  
+## :handshake: Let's Connect 
+<p align="center">
+&nbsp; <a href="https://twitter.com/bhavesharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" /></a>  
+&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/bhaveshharmalkar/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" /></a>  
+&nbsp;&nbsp;&nbsp; <a href="mailto:bhaveshharmalkar28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  width="40" /></a>
+</p>
