@@ -34,7 +34,7 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
 &nbsp;&nbsp;&nbsp; <a href="mailto:bhaveshharmalkar28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  width="35" /></a>
 &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bhaveshharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"  width="35" /></a>
  
-<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
  </p>
  
