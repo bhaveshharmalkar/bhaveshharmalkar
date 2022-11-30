@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text&center=true&color=F724A9&width=880&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Bhavesh+Harmalkar&center=true&color=F724A9&width=880&height=50)
 
 <h4>I'm a student of persuing Masters in Information Technology. I'm a Cyber-Security enthusiast also very much passionate to explore myself in Security profession. </h4>
   
@@ -23,8 +23,14 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
 
 <hr/>
 
-  <h4>ToolBox</h4> 
+   ## :hammer_and_wrench: ToolBox 
+   
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
   
 <hr/>
+
+ ## &#x1f4c8; GitHub Stats
+  
+![Bhavesh GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
