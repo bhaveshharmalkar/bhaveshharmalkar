@@ -2,7 +2,7 @@
 <hr/>
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="400px" width="990px"/>
 
-<br/>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Bhavesh+Harmalkar&center=true&color=d80870&width=880&height=50)
+<br/>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+There+is+NO+TECHNOLOGY+are+connected+to+the+INTERNET+is+UNHACKABLE.&center=true&color=d80870&width=980&height=50)
 
 <h4>I'm a student of persuing Masters in Information Technology. I'm a Cyber-Security enthusiast also very much passionate to explore myself in Security profession. </h4>
   
