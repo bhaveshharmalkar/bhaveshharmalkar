@@ -1,12 +1,9 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bhavesh!
 <hr/>
-<!--
-
--->
 <br>  
-<!--  
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/bhavesharmalkar?label=Follow%20on%20Twitter&style=social&logo=LinkedIn)
--->
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fbhavesharmalkar)](https://twitter.com/bhavesharmalkar)
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="400px" width="990px"/>
 
 
