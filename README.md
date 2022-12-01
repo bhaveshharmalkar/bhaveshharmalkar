@@ -4,7 +4,7 @@
 
 <br/>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+There+is+NO+TECHNOLOGY+are+connected+to+the+INTERNET+is+UNHACKABLE.&center=true&color=d80870&width=980&height=50)
 
-<h4>I'm a student of persuing Masters in Information Technology. I'm a Cyber-Security enthusiast also very much passionate to explore myself in Security profession. </h4>
+<h4>I'm persuing Masters in Information Technology. I'm a Cyber-Security enthusiast also very much passionate to explore myself in Security profession. </h4>
   
 <h4>I love to find security issue in various domains i.e Web Application, Network Infrastructure and Linux-Windows systems.
 Solving Capture The Flag(CTF) machines on different platform like TryHackme, Proving Grounds, CTFChallenge...</h4>
