@@ -11,21 +11,20 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
   
 <h4>Trying to contribute to the infosec community as I can. I like working in Linux enviorment.Always look forward to learn and experiment new thing in the infosec world. </h4>
 
-<hr/>
+<br/>
 
    ## :hammer_and_wrench: ToolBox 
    
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-  
-<hr/>
-
-  ## Blogs
+  <br/>
+  <br/>
+  ## :closed_book: Write-Ups
   
   <!-- BLOG-POST-LIST:START -->
 - [Advent Of Cyber 2022](https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e?source=rss-8243bd4d22d1------2)
-<!-- BLOG-POST-LIST:END -->
-
+<!-- BLOG-POST-LIST:END --><br/>
+  
   
   ## &#x1f4c8; GitHub Stats
   
