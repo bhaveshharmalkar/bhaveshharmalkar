@@ -23,8 +23,8 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
   ## Blogs
   
   <!-- BLOG-POST-LIST:START -->
-  
-  <!-- BLOG-POST-LIST:END -->
+- [Advent Of Cyber 2022](https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e?source=rss-8243bd4d22d1------2)
+<!-- BLOG-POST-LIST:END -->
 
   
   ## &#x1f4c8; GitHub Stats
