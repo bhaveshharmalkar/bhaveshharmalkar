@@ -20,7 +20,14 @@ Solving Capture The Flag(CTF) machines on different platform like TryHackme, Pro
   
 <hr/>
 
- ## &#x1f4c8; GitHub Stats
+  ## Blogs
+  
+  <!-- BLOG-POST-LIST:START -->
+  
+  <!-- BLOG-POST-LIST:END -->
+
+  
+  ## &#x1f4c8; GitHub Stats
   
 ![Bhavesh GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
