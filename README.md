@@ -28,7 +28,8 @@
   ## &#x1f4c8; GitHub Stats
   
 ![Bhavesh GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/><br/>
+  ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
 <br>
 <br>
   
@@ -37,9 +38,14 @@
 &nbsp; <a href="https://twitter.com/bhavesharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" /></a>  
 &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bhaveshharmalkar/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" /></a>  
 &nbsp;&nbsp;&nbsp; <a href="mailto:bhaveshharmalkar28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  width="35" /></a>
-&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bhaveshharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"  width="35" /></a>
+&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bhaveshharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"  width="35" /></a></p>
+
+
+
  
+
+<!-- 
 <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
  </p>
-
+-->
