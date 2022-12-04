@@ -6,10 +6,9 @@
 
 <h4>I'm persuing Masters in Information Technology. I'm a Cyber-Security enthusiast also very much passionate to explore myself in Security profession. </h4>
   
-<h4>I love to find security issue in various domains i.e Web Application, Network Infrastructure and Linux-Windows systems.
-Solving Capture The Flag(CTF) machines on different platform like TryHackme, Proving Grounds, CTFChallenge...</h4>
+<h4>I love to find security issues in various domains i.e Web Applications, Network Infrastructure, and Linux-Windows systems. Solving Capture The Flag(CTF)🚩 machines on different platforms like TryHackme, Proving Grounds, CTFChallenge...</h4>
   
-<h4>Trying to contribute to the infosec community as I can. I like working in Linux enviorment.Always look forward to learn and experiment new thing in the infosec world. </h4>
+<h4>Trying to contribute to the infosec community as I can. I like working in a Linux environment 🐧. Always look forward to learning and experimenting with new things in the infosec world. </h4>
 
 <br/>
 
