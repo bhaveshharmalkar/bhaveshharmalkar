@@ -9,12 +9,24 @@
 <h4>I love to find security issues in various domains i.e Web Applications, Network Infrastructure, and Linux-Windows systems. Solving Capture The Flag(CTF)🚩 machines on different platforms like TryHackme, Proving Grounds, CTFChallenge...</h4>
   
 <h4>Trying to contribute to the infosec community as I can. I like working in a Linux environment 💻. Always look forward to learning and experimenting with new things in the infosec world. </h4>
+  <hr/>
+  <br/>
+
+  ## :medal_sports: Achievements
+  ### <i>TryHackMe Badges</i>
+  
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/network-fundamentals" target="_blank" rel="noopener noreferrer">Networking Nerd</a>   
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/web-fund" target="_blank" rel="noopener noreferrer">Webbed</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/burped" target="_blank" rel="noopener noreferrer">Burp'ed</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/owasp-10" target="_blank" rel="noopener noreferrer">Owsap Top-10</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/metasploitable" target="_blank" rel="noopener noreferrer">Metasploitable</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/hash-cracker" target="_blank" rel="noopener noreferrer">Hash Cracker</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/linux-privesc" target="_blank" rel="noopener noreferrer">Linux PrivEsc</a>
 
 <br/>
-
-   ## :hammer_and_wrench: ToolBox 
-   
   
+  ## :hammer_and_wrench: ToolBox 
+   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
   <br/>
   <br/>
@@ -43,9 +55,3 @@
 
 
  
-
-<!-- 
-<br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
- </p>
--->
