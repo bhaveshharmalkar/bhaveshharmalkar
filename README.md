@@ -45,7 +45,7 @@
 <br>
 <br>
   
-## :handshake: Let's Connect 
+## :handshake: Let's Connect
 <p align="center">
 &nbsp; <a href="https://twitter.com/bhavesharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" /></a>  
 &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bhaveshharmalkar/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" /></a>  
