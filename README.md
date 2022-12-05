@@ -36,13 +36,15 @@
 - [Advent Of Cyber 2022](https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e?source=rss-8243bd4d22d1------2)
 <!-- BLOG-POST-LIST:END --><br/>
   
-  
+  <!--
   ## &#x1f4c8; GitHub Stats
-  
 ![Bhavesh GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
   ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
 <br>
+-->
+  
+
 <br>
   
 ## :handshake: Let's Connect
