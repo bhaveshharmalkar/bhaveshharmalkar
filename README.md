@@ -52,7 +52,7 @@
 
 <br/><br/>
  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical">
+    <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical&fire=f4c823">
   </p>
   <p align="center">
      <img src="https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870" />
