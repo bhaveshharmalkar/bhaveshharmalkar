@@ -39,15 +39,7 @@
   
 
   ## &#x1f4c8; GitHub Stats
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical" />
-  </a>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical" />
-  </p>
+ ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
   ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
