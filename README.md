@@ -40,6 +40,7 @@
 
   ## &#x1f4c8; GitHub Stats
 ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats-1-lac-gamma.vercel.app/api/top-langs/?username=bhaveshharmalkar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical)](https://git.io/streak-stats)
 <br/><br/>
   ![](https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870)
 <br>
