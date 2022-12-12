@@ -22,6 +22,7 @@
    +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/metasploitable" target="_blank" rel="noopener noreferrer">Metasploitable</a>
    +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/hash-cracker" target="_blank" rel="noopener noreferrer">Hash Cracker</a>
    +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/linux-privesc" target="_blank" rel="noopener noreferrer">Linux PrivEsc</a>
+   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/ohsint" target="_blank" rel="noopener noreferrer">Ohsint</a>
 
 <br/>
   
