@@ -10,7 +10,6 @@
   
 <h4>Trying to contribute to the infosec community as I can. I like working in a Linux environment 💻. Always look forward to learning and experimenting with new things in the infosec world. </h4>
   <hr/>
-  <br/>
 
   ## :medal_sports: Achievements
   ### <i>TryHackMe Badges</i>
@@ -24,14 +23,9 @@
    +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/linux-privesc" target="_blank" rel="noopener noreferrer">Linux PrivEsc</a>
    +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/ohsint" target="_blank" rel="noopener noreferrer">Ohsint</a>
 
-<br/>
+
   
-  ## :hammer_and_wrench: ToolBox 
-   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-  <br/>
-  <br/>
-  ## :closed_book: Write-Ups
+   ## :closed_book: Write-Ups
   
   <!-- BLOG-POST-LIST:START -->
 - [TryHackme tomghost CTF](https://medium.com/@bhaveshharmalkar/tryhackme-tomghost-ctf-c24a0c806211?source=rss-8243bd4d22d1------2)
@@ -42,13 +36,13 @@
   <!--
   [wants to read more...](https://medium.com/@bhaveshharmalkar)
 -->
+  ## :hammer_and_wrench: ToolBox 
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
   <br/>
   
-
   ## &#x1f4c8; GitHub Stats
  ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-<br>
   
 ## :handshake: Let's Connect
 <p align="center">
