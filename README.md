@@ -1,5 +1,5 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bhavesh!
-<hr/>
+</br></br>
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="400px" width="990px"/>
 
 <br/>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+There+is+NO+TECHNOLOGY+are+connected+to+the+INTERNET+is+UNHACKABLE.&center=true&color=d80870&width=980&height=50)
