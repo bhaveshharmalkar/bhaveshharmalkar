@@ -51,11 +51,11 @@
 &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bhaveshharmalkar/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" /></a>  
 &nbsp;&nbsp;&nbsp; <a href="mailto:bhaveshharmalkar28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  width="35" /></a>
 &nbsp;&nbsp;&nbsp; <a href="https://medium.com/@bhaveshharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"  width="35" /></a></p>
-
 <br/><br/>
  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical&fire=f4c823">
+    <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical&fire=FFF633">
   </p>
   <p align="center">
      <img src="https://komarev.com/ghpvc/?username=bhaveshharmalkar&label=PROFILE+VIEWS&color=d80870" />
   </p>
+  
