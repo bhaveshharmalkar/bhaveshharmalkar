@@ -42,7 +42,7 @@
   ## &#x1f4c8; GitHub Stats
  ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;[![Top Langs](https://github-readme-stats-1-lac-gamma.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## :handshake: Let's Connect
+</br></br>
 <p align="center">
 &nbsp; <a href="https://twitter.com/bhavesharmalkar" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" /></a>  
 &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bhaveshharmalkar/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="35" /></a>  
