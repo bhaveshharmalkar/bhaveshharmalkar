@@ -39,8 +39,7 @@
   <br/>
   
  
-  ## &#x1f4c8; GitHub Stats
- ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;[![Top Langs](https://github-readme-stats-1-lac-gamma.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 </br></br>
 <p align="center">
@@ -58,7 +57,8 @@
 <img align="middle" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="400px" width="990px"/>
 
 <br/>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+There+is+NO+TECHNOLOGY+are+connected+to+the+INTERNET+is+UNHACKABLE.&center=true&color=d80870&width=980&height=50)
-
+ ## &#x1f4c8; GitHub Stats
+ ![Bhavesh GitHub stats](https://github-readme-stats-1-lac-gamma.vercel.app/api?username=bhaveshharmalkar&show_icons=true&theme=radical)&emsp;[![Top Langs](https://github-readme-stats-1-lac-gamma.vercel.app/api/top-langs/?username=bhaveshharmalkar&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=bhaveshharmalkar&theme=radical&fire=FFF633">
   </p>
