@@ -11,7 +11,7 @@
 
 
   
-   ## :closed_book: Write-Ups
+   ### :closed_book: Write-Ups
   
   <!-- BLOG-POST-LIST:START -->
 - [TryHackme tomghost CTF](https://medium.com/@bhaveshharmalkar/tryhackme-tomghost-ctf-c24a0c806211?source=rss-8243bd4d22d1------2)
@@ -22,12 +22,10 @@
   <!--
   [wants to read more...](https://medium.com/@bhaveshharmalkar)
 -->
-  ## :hammer_and_wrench: ToolBox 
-   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50" height="50"/>&nbsp;<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50"/>&nbsp;&nbsp;<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="50" height=50/><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50" height="50"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-  <br/>
-  
+
  
+  ### 📌 Current Challenge
+ #### The [Learn365](https://github.com/bhaveshharmalkar/learn365/tree/main) challenge is a personal commitment I've taken up to nurture my learning spirit by dedicating myself to acquiring new knowledge every day throughout the entire year. Whether it's delving into the depths of information security or exploring insights for a fulfilling life, I am determined to embrace diverse subjects and expand my understanding consistently.</h4>
  
 
 </br></br>
