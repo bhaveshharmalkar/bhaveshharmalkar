@@ -7,18 +7,7 @@
 <h4>Trying to contribute to the infosec community as I can. I like working in a Linux environment 💻. Always look forward to learning and experimenting with new things in the infosec world. </h4>
   <hr/>
 
-  ## :medal_sports: Achievements
-  ### <i>TryHackMe Badges</i>
   
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/network-fundamentals" target="_blank" rel="noopener noreferrer">Networking Nerd</a>   
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/web-fund" target="_blank" rel="noopener noreferrer">Webbed</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/burped" target="_blank" rel="noopener noreferrer">Burp'ed</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/owasp-10" target="_blank" rel="noopener noreferrer">Owsap Top-10</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/metasploitable" target="_blank" rel="noopener noreferrer">Metasploitable</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/hash-cracker" target="_blank" rel="noopener noreferrer">Hash Cracker</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/linux-privesc" target="_blank" rel="noopener noreferrer">Linux PrivEsc</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/ohsint" target="_blank" rel="noopener noreferrer">Ohsint</a>
-   +  <a href="https://tryhackme.com/bhaveshharmalkar/badges/adventofcyber4" target="_blank" rel="noopener noreferrer">Advent of Cyber 4</a>
 
 
   
