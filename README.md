@@ -24,8 +24,7 @@
 -->
 
  
-  ### 📌 Current Challenge
- #### The [Learn365](https://github.com/bhaveshharmalkar/learn365/tree/main) challenge is a personal commitment I've taken up to nurture my learning spirit by dedicating myself to acquiring new knowledge every day throughout the entire year. Whether it's delving into the depths of information security or exploring insights for a fulfilling life, I am determined to embrace diverse subjects and expand my understanding consistently.</h4>
+
  
 
 </br></br>
