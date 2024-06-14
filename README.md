@@ -15,8 +15,8 @@
   
   <!-- BLOG-POST-LIST:START -->
 - [TryHackme tomghost CTF](https://medium.com/@bhaveshharmalkar/tryhackme-tomghost-ctf-c24a0c806211?source=rss-8243bd4d22d1------2)
-- [TryHackMe ultraTech CTF](https://medium.com/@bhaveshharmalkar/tryhackme-ultratech-ctf-5f4a8e238ed9?source=rss-8243bd4d22d1------2)
-- [TryHackMe CMesS CTF](https://medium.com/@bhaveshharmalkar/tryhackme-cmess-ctf-c1339774550e?source=rss-8243bd4d22d1------2)
+- [TryHackMe ultraTech CTF](https://infosecwriteups.com/tryhackme-ultratech-ctf-5f4a8e238ed9?source=rss-8243bd4d22d1------2)
+- [TryHackMe CMesS CTF](https://infosecwriteups.com/tryhackme-cmess-ctf-c1339774550e?source=rss-8243bd4d22d1------2)
 - [Advent Of Cyber 2022](https://medium.com/@bhaveshharmalkar/advent-of-cyber-2022-ebd2debaec0e?source=rss-8243bd4d22d1------2)
 <!-- BLOG-POST-LIST:END -->
   <!--
